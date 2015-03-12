@@ -92,4 +92,4 @@ Remember to recover python back to 2.4 first. then create an RPM package.
 # ls -l *.rpm
 -rw-r--r-- 1 root  root  5478842 Mar  4 15:10 nodejs-0.10.33-1.i686.rpm
 ```
-Ok. After the last step. we will get the rpm file. You can install it on local server. Or you can copy this rpm file only to another server which run the same version of CentOS. then install it as the installation section shows on [top](#Installation).
+Ok. After the last step. we will get the rpm file. You can install it on local server. Or you can copy this rpm file only to another server which run the same version of CentOS. then install it as the installation section shows on [top](#installation).
