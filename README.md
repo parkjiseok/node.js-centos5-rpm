@@ -1,4 +1,4 @@
-# Node.js rpm for CentOS 5 32bit
+# Node.js RPM for CentOS 5 32bit
 
 Three RPM files in here is for install node.js on CentOS 5. I have tested it at CentOS 5.3 32bit, but it may work for 5.x 32bit. 
 
