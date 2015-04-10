@@ -16,6 +16,9 @@ Below is a example to install node.js 0.10.33. Make sure you are a root user.
 ```bash
 # wget https://github.com/spacesix/node.js-centos5-rpm/blob/master/nodejs-0.10.33-1.i686.rpm?raw=true --no-check-certificate
 # rpm -ivh nodejs-0.10.33-1.i686.rpm
+## For CentOS 6.5 64bit
+# wget https://github.com/spacesix/node.js-centos5-rpm/blob/master/nodejs-0.12.0-1.x86_64.rpm?raw=true --no-check-certificate
+# rpm -ivh nodejs-0.12.0-1.x86_64.rpm
 ```
 You can test it once install finished.
 ```bash
